@@ -109,7 +109,7 @@ The Southeast carries a double burden — highest average BMI (33.4) and highest
 
 1. **Smoking-Based Premium Tiers** — Smokers cost 3.8x more but pricing rarely reflects this fully. Pilot differentiated premiums in the Southeast.
 2. **Southeast Wellness Program** — Combined smoking cessation + weight management targeting the highest-cost region.
-3. **Low-Risk Product Tier** — A competitive product for non-smoker + healthy BMI + under-45 customers. *(Exact avg charge for this segment requires a dedicated 3-variable pivot — see pivot table methodology note.)*
+3. **Low-Risk Product Tier** — Develop a "Low-Risk" premium product tier for the non-smoker + BMI<25 + Age<45 segment. This segment averages approximately $6,073 in charges — roughly 46% below the $13,270 overall average.
 4. **Young Smoker Re-Pricing** — The 18–30 smoker segment carries a 6.2x cost ratio, the largest pricing gap in the portfolio.
 
 
